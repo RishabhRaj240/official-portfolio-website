@@ -24,7 +24,7 @@ export default function Footer() {
             .fill(null)
             .map((_, i) => (
               <div key={i} className="flex items-center gap-10 whitespace-nowrap">
-                <span className="text-[#D2FF00] font-bold">RISHAB RAJ</span>
+                <span className="text-[#D2FF00] font-bold">RISHABH RAJ</span>
                 <span>{"//"}</span>
                 <span>WEB DEVELOPER</span>
                 <span>{"//"}</span>
@@ -79,7 +79,7 @@ export default function Footer() {
             <div className="flex items-center gap-3">
               <LNLogo className="w-8 h-8 text-white flex-shrink-0" />
               <span className="font-heading font-extrabold text-base tracking-tight text-white">
-                RISHAB RAJ
+                RISHABH RAJ
               </span>
             </div>
             <p className="font-sans text-xs text-[#8E9285] leading-relaxed">
@@ -208,7 +208,7 @@ export default function Footer() {
 
         {/* Bottom Bar: Copyright & Legal */}
         <div className="pt-6 sm:pt-8 border-t border-[#2A2F24]/60 flex flex-col sm:flex-row items-center justify-between gap-4 font-tech text-[11px] sm:text-xs text-[#8E9285] text-center sm:text-left">
-          <span>© 2026 RISHAB RAJ. ALL RIGHTS RESERVED.</span>
+          <span>© 2026 RISHABH RAJ. ALL RIGHTS RESERVED.</span>
           <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
             <span className="hover:text-[#D2FF00] cursor-pointer">PRIVACY POLICY</span>
             <span className="hover:text-[#D2FF00] cursor-pointer">TERMS OF SERVICE</span>

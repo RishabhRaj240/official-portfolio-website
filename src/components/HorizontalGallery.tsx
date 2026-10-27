@@ -191,7 +191,7 @@ export default function HorizontalGallery() {
                     </div>
 
                     <div className="border-t border-[#2A2F24] pt-3 sm:pt-4 flex items-center justify-between font-tech text-[11px] sm:text-xs text-[#8E9285]">
-                      <span>RISHAB RAJ</span>
+                      <span>RISHABH RAJ</span>
                       <span className="text-[#D2FF00]">FULL STACK DEVELOPER</span>
                     </div>
                   </div>

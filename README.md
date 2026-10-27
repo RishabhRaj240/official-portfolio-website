@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rishab Raj
+# 👋 Hi, I'm Rishabh Raj
 
 ### 💻 Web Developer | Full-Stack Developer | AI Enthusiast
 

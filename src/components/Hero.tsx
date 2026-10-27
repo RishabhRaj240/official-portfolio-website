@@ -80,15 +80,14 @@ export default function Hero() {
         {/* Center Stage: Centered High-Resolution Driver Portrait + Floating Telemetry Card */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center my-6 lg:my-0 flex-1">
           {/* Left Column: Huge Headline Typography */}
-          <div className="lg:col-span-4 flex flex-col justify-center order-2 lg:order-1 text-center lg:text-left">
+          <div className="lg:col-span-4 flex flex-col justify-center order-2 lg:order-1 text-center lg:text-left relative z-10">
             <div className="space-y-1">
               <span className="font-tech text-xs tracking-widest text-[#D2FF00] uppercase block">
                 [ OFFICIAL DEVELOPER PORTFOLIO ]
               </span>
-              <h1 className="font-heading font-black text-4xl min-[380px]:text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl tracking-tighter uppercase leading-[0.88] text-[#F7F7F2]">
-                RISHAB
-                <br />
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#D2FF00] to-[#E3FF4D] neon-text-glow">
+              <h1 className="font-heading font-black text-4xl min-[380px]:text-5xl sm:text-6xl md:text-6xl lg:text-5xl xl:text-6xl 2xl:text-7xl tracking-tighter uppercase leading-[0.88] text-[#F7F7F2]">
+                <span className="block whitespace-nowrap">RISHABH</span>
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#D2FF00] to-[#E3FF4D] neon-text-glow block whitespace-nowrap">
                   RAJ
                 </span>
               </h1>
@@ -127,7 +126,7 @@ export default function Hero() {
             <div className="relative w-full max-w-[280px] min-[400px]:max-w-[320px] sm:max-w-[360px] lg:max-w-[400px] aspect-[3/4] cut-corner-tl-br overflow-hidden border-2 border-[#2A2F24] shadow-2xl group">
               <Image
                 src="/images/Rishab Raj.jpeg"
-                alt="Rishab Raj Developer Portrait"
+                alt="Rishabh Raj Developer Portrait"
                 fill
                 sizes="(max-width: 640px) 280px, (max-width: 1024px) 360px, 400px"
                 priority

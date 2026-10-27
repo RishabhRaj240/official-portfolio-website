@@ -33,7 +33,7 @@ export default function StoreBanner() {
                 <ShoppingBag className="w-4 h-4" />
               </span>
               <span className="font-tech text-xs tracking-widest uppercase font-bold text-[#282C20]">
-                RISHAB RAJ // LET&apos;S CONNECT
+                RISHABH RAJ // LET&apos;S CONNECT
               </span>
             </div>
 
@@ -92,7 +92,7 @@ export default function StoreBanner() {
                   className="object-cover"
                 />
                 <div className="absolute top-3 sm:top-4 left-3 sm:left-4 font-tech text-[10px] sm:text-xs font-bold bg-[#080907] text-[#D2FF00] px-2.5 sm:px-3 py-1">
-                  RISHAB RAJ // 2026
+                  RISHABH RAJ // 2026
                 </div>
               </div>
 
@@ -119,7 +119,7 @@ export default function StoreBanner() {
                   PORTFOLIO 2026
                 </span>
                 <span className="font-heading font-black text-sm sm:text-lg text-white block">
-                  RISHAB // DEV
+                  RISHABH // DEV
                 </span>
                 <span className="font-tech text-[9px] sm:text-[10px] text-gray-400 block truncate">CODE + DESIGN</span>
               </div>

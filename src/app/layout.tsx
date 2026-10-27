@@ -32,10 +32,11 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Rishab Raj - Official Portfolio",
+  title: "Rishabh Raj - Official Portfolio",
   description:
-    "Official portfolio of Rishab Raj — Full Stack Web Developer & Designer. Showcasing projects, technical stack, and modern interactive web experiences.",
+    "Official portfolio of Rishabh Raj — Full Stack Web Developer & Designer. Showcasing projects, technical stack, and modern interactive web experiences.",
   keywords: [
+    "Rishabh Raj",
     "Rishab Raj",
     "Web Developer",
     "Full Stack Developer",
@@ -52,9 +53,9 @@ export const metadata: Metadata = {
     apple: "/apple-icon.png",
   },
   openGraph: {
-    title: "Rishab Raj - Official Portfolio",
-    description: "Official portfolio of Rishab Raj — Full Stack Web Developer & Designer.",
-    siteName: "Rishab Raj",
+    title: "Rishabh Raj - Official Portfolio",
+    description: "Official portfolio of Rishabh Raj — Full Stack Web Developer & Designer.",
+    siteName: "Rishabh Raj",
     type: "website",
   },
 };

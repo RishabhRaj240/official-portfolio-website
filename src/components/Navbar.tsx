@@ -122,7 +122,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col min-w-0">
               <span className="font-heading font-extrabold text-sm sm:text-base md:text-lg tracking-tight leading-none text-[#F7F7F2] group-hover:text-[#D2FF00] transition-colors truncate">
-                RISHAB RAJ
+                RISHABH RAJ
               </span>
               <span className="font-tech text-[9px] sm:text-[10px] tracking-widest text-[#8E9285] uppercase">
                 RR // PORTFOLIO
